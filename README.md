@@ -1,6 +1,8 @@
-# Assignment 13 for Spring Boot lesson
+# Assignment 14 for Spring Boot lesson
 
-This folder also contains **assignment 14**. The test cases in assignment 14 are in the **test** folders.
+This folder is based on **assignment 13**.
+
+The test cases for **assignment 14** are in the **test** folders.
 
 Below are examples of the endpoints:
 ## POST 
